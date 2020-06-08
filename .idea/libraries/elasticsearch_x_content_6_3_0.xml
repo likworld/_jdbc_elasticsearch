@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="elasticsearch-x-content-6.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/elasticsearch-x-content-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/jackson-core-2.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/jdbc-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/log4j-api-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/log4j-core-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_elasticSearch_jdbc/lib/lucene-core-7.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
